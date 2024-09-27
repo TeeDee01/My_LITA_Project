@@ -1,9 +1,9 @@
 # My_LITA_Project: E Commerce Sales Analysis
 
 - [Project Overview](#project-overview)
-Data Sources
-Data Analysis
-- References[References)[#references]
+- [Data Sources](#Data-sources)
+- [Data Analysis](#data-analysis)
+- [References](#references)
 
 ## Project Overview
 ---
