@@ -19,6 +19,6 @@ WHERE CONDITION = TRUE
 
 ## References
 ---
-SQL for Business Analysis [Download Here](www.microsoft.com) 
+SQL for Business Analysis [Download Here](https://www.microsoft.com) 
 Google Query for Business processes
 
