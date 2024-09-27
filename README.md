@@ -17,6 +17,9 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 ## Data Analysis
 ---
 
+![images](https://github.com/user-attachments/assets/e5a91416-1ba5-4bd2-a1ee-a5cd6110bd91)
+
+![Bar Cahrt](https://github.com/user-attachments/assets/39d8f865-4ca2-4309-91fd-a71ad0407bde)
 
 
 ``` SQL
